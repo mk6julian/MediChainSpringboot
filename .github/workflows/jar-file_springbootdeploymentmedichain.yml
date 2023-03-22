@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'SpringbootDeploymentMediChain'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66268F7EE26B4E4B9A3D21AC9CC4B5B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC60EBA343CD4BB6B212E6954FB06A8C }}
           package: '*.jar'
